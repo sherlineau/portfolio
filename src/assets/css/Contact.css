@@ -1,0 +1,19 @@
+
+.contact-center {
+  width: 50vw;
+  margin: 0 auto;
+  max-width: var(--max-width);
+  text-align: center;
+}
+
+
+.contact-center p {
+  font-size: 1.25rem;
+}
+
+.contact-center .btn {
+  display: block;
+  width: 100%;
+  margin: 2rem auto;
+  font-size: 1.25rem;
+}

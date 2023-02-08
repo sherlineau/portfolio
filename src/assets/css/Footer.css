@@ -1,0 +1,25 @@
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 150px;
+}
+
+.footer .footer-link {
+  display: none;
+}
+
+@media screen and (max-width: 1500px) {
+  .footer .footer-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer li {
+    width: 2.5rem;
+  }
+
+}
