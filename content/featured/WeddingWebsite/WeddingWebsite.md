@@ -1,9 +1,9 @@
 ---
-date: '2'
-title: 'Desiree & Esteban's Wedding Website'
-featuredImage: './wedding.png'
-github: 'https://github.com/sherlineau/dez-esteban-wedding'
-external: 'https://desiree-and-esteban.com/'
+date: "2"
+title: "Desiree & Esteban Wedding Website"
+featuredImage: "./wedding.png"
+github: "https://github.com/sherlineau/dez-esteban-wedding"
+external: "https://desiree-and-esteban.com/"
 tech:
   - React
   - Google Maps API

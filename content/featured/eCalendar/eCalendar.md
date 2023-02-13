@@ -1,9 +1,9 @@
 ---
-date: '1'
-title: 'eCalendar'
-featuredImage: './eCalendar.png'
-github: 'https://github.com/sherlineau/eCalendar-MERN'
-external: 'https://ecalendar.onrender.com/'
+date: "1"
+title: "eCalendar"
+featuredImage: "./eCalendar.png"
+github: "https://github.com/sherlineau/eCalendar-MERN"
+external: "https://ecalendar.onrender.com/"
 tech:
   - MongoDB
   - Express
