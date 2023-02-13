@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer">
       <div>
         <p>Designed & Developed by Sherline Au</p>
-        <p>&copy; 2021 - {new Date().getFullYear()}</p>
+        <p>&copy; {new Date().getFullYear()}</p>
         <FooterLinks styleClass="footer-link"></FooterLinks>
       </div>
     </footer>
