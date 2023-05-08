@@ -11,7 +11,7 @@ const Contact = () => {
         If you have any job opportunities, projects, or other related inquiries, please feel free to contact me. I look forward to hearing from you and exploring how I can contribute to your needs. Thank you for your consideration.
         </p>
         <a
-          href="mailto:au.sherline@gmail.com"
+          href="mailto:sherlineau7@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
           className="btn"
