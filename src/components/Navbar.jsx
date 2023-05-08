@@ -1,5 +1,4 @@
 import React from 'react'
-import resumePDF from '../assets/Resume.pdf'
 import logo from '../assets/images/icon.png'
 import '../assets/css/Navbar.css'
 
@@ -14,7 +13,6 @@ const Navbar = () => {
           <li><a href="#about">About</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
-          <a href={resumePDF} target="_blank" rel="noreferrer" className="btn"> Resume </a>
         </ol>
       </div>
     </nav>
